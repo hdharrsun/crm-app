@@ -5,6 +5,7 @@
 
 # Create Lead.
 def create_lead():
+<<<<<<< HEAD
   print "Created Lead successfully."
 
 # Update Lead.
@@ -14,3 +15,6 @@ def update_lead():
   # Delete Lead.
 def delete_lead():
   print "Lead deleted successfully."
+=======
+  print "Created Lead successfully."
+>>>>>>> 3a4fbff... Started with the Lead feature development.
